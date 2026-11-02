@@ -1,0 +1,3 @@
+Multi-agent LLM systems consist of multiple language-model
+agents that collaborate to complete tasks. These systems may
+use tools to retrieve information or perform actions.

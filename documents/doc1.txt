@@ -1,0 +1,3 @@
+The RWTH Aachen University is a public research university
+in Aachen, Germany. It offers programs in engineering,
+computer science, and natural sciences.
