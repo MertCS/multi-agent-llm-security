@@ -16,3 +16,13 @@
 ## November 3, 2026
 
 *To be updated.*
+
+## November 4, 2026
+
+- Implemented the document agent and orchestrator.
+- Improved tool-call handling and execution logging.
+- Tested a prompt-injection attack using a malicious document.
+- Observed an unauthorized `send_email()` call.
+- Implemented a prompt-based defense and tested it.
+- Found that the defense did not prevent the initial attack.
+- Added four additional attack scenarios for evaluation.
